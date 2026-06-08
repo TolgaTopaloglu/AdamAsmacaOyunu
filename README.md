@@ -76,3 +76,8 @@ Her oyun sonunda:
 
 <img width="867" height="697" alt="image" src="https://github.com/user-attachments/assets/a1e8af72-c14a-4997-b98d-7b73f7c201d9" />
 
+<img width="867" height="702" alt="image" src="https://github.com/user-attachments/assets/79d2b256-3b7c-46e6-ab59-ccd41ebe52a4" />
+
+![Uploading image.png…]()
+
+
