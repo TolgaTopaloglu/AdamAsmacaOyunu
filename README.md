@@ -74,12 +74,3 @@ Her oyun sonunda:
 
 `oyunlar.txt` dosyasına kaydedilir.
 
-
-
-
-
----
-
-## 📜 Lisans
-
-Bu proje eğitim amaçlı geliştirilmiştir.
