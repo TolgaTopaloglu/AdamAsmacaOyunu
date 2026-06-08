@@ -74,3 +74,5 @@ Her oyun sonunda:
 
 `oyunlar.txt` dosyasına kaydedilir.
 
+<img width="867" height="697" alt="image" src="https://github.com/user-attachments/assets/a1e8af72-c14a-4997-b98d-7b73f7c201d9" />
+
