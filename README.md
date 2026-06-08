@@ -21,17 +21,6 @@ Oyuncu rastgele seçilen kelimeyi tahmin etmeye çalışırken hata yaptıkça g
 *  Adam asmaca görselleri
 
 
-## Kullanılan Teknolojiler
-
-* Java
-* Java Swing
-* File I/O
-* Timer
-* JTable
-* JOptionPane
-* NetBeans GUI Builder
-
-
 ##  Oyun Mantığı
 
 1. Oyuncu oyunu başlatır.
